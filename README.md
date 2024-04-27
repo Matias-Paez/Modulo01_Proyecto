@@ -32,3 +32,7 @@ Implementar:
 Al menos una función lambda para validación de datos de entrada
 Implementar todo el programa como POO, identificar las clases que considere necesarias.
 Cualquier otra consideración y/suposición será correcto
+
+---------------------------------------------------------------------
+En la carpeta data, colocar los archivos .txt etc
+en modulos, modularizar todo
